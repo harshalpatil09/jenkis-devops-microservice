@@ -11,7 +11,7 @@ node {
 }
 //Declartive
 
-pipelin{
+pipeline{
 	agent any
 	stages {
 		stage('Build'){
